@@ -1,0 +1,4 @@
+Each card is represented by a single number, 0-48
+bits 2-6 represent the month
+bits 0 and 1 represent the number within that month
+For
